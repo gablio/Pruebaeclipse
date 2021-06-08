@@ -2,8 +2,8 @@
 public class ejemplogit {
 
 	public static void main(String[] args) {
-		// TODO Apéndice de método generado automáticamente
-
+		// TODO Apéndice de ;método generado automáticamente
+System.out.println("julio");
 	}
 
 }
